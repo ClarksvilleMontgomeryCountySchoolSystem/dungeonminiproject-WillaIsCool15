@@ -1,7 +1,8 @@
 escaped=True
 if escaped:
-outcome="Doom: oh no I couldn't escape!"
+outcome="Legend: oh no I couldn't escape!"
     else
-outcome="Legend: YAYYY WE ESCSAPED THE DUNGEON!"
+outcome="Doom: yay we escaped the dungeon!"
 
 print(outcome)
+
