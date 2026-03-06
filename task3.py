@@ -1,7 +1,8 @@
-guard_awake=True
+guard_awake=False
 if guard_awake:
-outcome="Doom: shhhh the guard is awake!"
+outcome="Doom: shush the guard is awake!"
     else
-outcome="Shadow: Yessss we got past!"
+outcome="Shadow: Yes we got past!"
 
 print(outcome)
+
